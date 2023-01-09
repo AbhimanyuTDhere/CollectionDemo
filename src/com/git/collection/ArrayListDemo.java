@@ -11,7 +11,10 @@ public class ArrayListDemo {
 		list.add("abhi");
 		list.add("abhi");
 		list.add("abhi");
-		System.out.println(list);
+		//System.out.println(list);
+		for (String s : list) {
+			System.out.println(s);
+		}
 	}
 
 }
