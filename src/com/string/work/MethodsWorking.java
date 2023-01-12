@@ -6,7 +6,8 @@ public class MethodsWorking {
 		String str1  ="Abhimanyu Dhere";
 		String str2= new String("Abhi");
 	    String str = str1.toLowerCase();
+            String str3 = str2.toUpperCase();
 	    System.out.println(str1.equal(str2);
-	    System.out.println(str1);
+	    System.out.println(str1 +" "+str3);
 	}
 }
