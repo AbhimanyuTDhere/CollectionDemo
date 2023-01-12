@@ -11,9 +11,9 @@ public class LinkedListDemo {
 		list.add(20);
 		list.add(30);
 		list.add(40);
-		 System.out.println(list);
-		/*for (Integer s : list) {
+		// System.out.println(list);
+		for (Integer s : list) {
 			System.out.println(s);
-		}*/
+		}
 	}
 }
